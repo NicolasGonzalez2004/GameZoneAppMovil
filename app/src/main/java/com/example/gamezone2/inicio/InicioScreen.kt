@@ -1,4 +1,4 @@
-package com.example.gamezone.inicio
+package com.example.gamezone2.inicio
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
@@ -8,7 +8,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.gamezone.ui.theme.GameZoneTheme
+import com.example.gamezone2.ui.theme.GameZoneTheme
+import com.example.gamezone2.ui.theme.GameZoneTheme
 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable

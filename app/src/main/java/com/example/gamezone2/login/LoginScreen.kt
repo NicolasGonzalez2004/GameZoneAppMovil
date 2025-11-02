@@ -1,4 +1,4 @@
-package com.example.gamezone.login
+package com.example.gamezone2.login
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
@@ -9,10 +9,10 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.gamezone.ui.theme.GameZoneTheme
+import com.example.gamezone2.ui.theme.GameZoneTheme
 import androidx.compose.foundation.Image
 import androidx.compose.ui.res.painterResource
-import com.example.gamezone.R
+import com.example.gamezone2.R
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.ui.draw.clip
 

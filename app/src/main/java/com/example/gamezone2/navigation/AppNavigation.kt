@@ -1,12 +1,12 @@
-package com.example.gamezone.navigation
+package com.example.gamezone2.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.gamezone.inicio.InicioScreen
-import com.example.gamezone.login.LoginScreen
-import com.example.gamezone.registro.RegisterScreen
+import com.example.gamezone2.inicio.InicioScreen
+import com.example.gamezone2.login.LoginScreen
+import com.example.gamezone2.registro.RegisterScreen
 
 object Routes {
     const val LOGIN = "login"

@@ -1,4 +1,4 @@
-package com.example.gamezone.registro
+package com.example.gamezone2.registro
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.gamezone.ui.theme.GameZoneTheme
+import com.example.gamezone2.ui.theme.GameZoneTheme
 
 private val GENEROS = listOf("FICCION", "NO FICCION", "MISTERIO", "TERROR", "SUSPENSO", "HISTORIA")
 
